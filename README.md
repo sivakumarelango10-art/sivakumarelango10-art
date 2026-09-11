@@ -36,20 +36,9 @@
   <img src="https://img.shields.io/badge/Status-Building_%26_Shipping-10B981?style=flat-square&logo=statuspage&logoColor=white" alt="Status" />
 </div>
 
-<br>
-
-```text
-┌────────────────────────────────────────────────────────┐
-│  👋 Hi, I'm Elango S                                   │
-│                                                        │
-│  💻 Full-Stack Developer & Software Architect          │
-│  🧠 Prompt Engineer & Applied AI Explorer              │
-│  🎓 B.Tech CSE (AI & ML) @ Yenepoya University         │
-│  🛍️ Real-World Client E-Commerce Builder              │
-│  🚀 Hackathon Competitor & Rapid Prototyper            │
-│  🛠️ Building practical, high-impact digital products   │
-└────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="./assets/about-me-card.svg" alt="About Elango S — Full-Stack Developer, Prompt Engineer, and Applied AI Explorer" width="100%" />
+</p>
 
 I am a hands-on **Full-Stack Developer** and **AI Engineer** based in Bengaluru, India. I specialize in engineering responsive modern web applications, integrating practical AI/LLM capabilities into software workflows, and designing structured prompts that yield predictable, production-grade results.
 
