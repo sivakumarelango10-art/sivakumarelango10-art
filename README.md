@@ -213,17 +213,17 @@ An interactive learning analytics portal featuring live student progress telemet
 
 <td width="50%" valign="top">
 
-### 🏢 PGHub
-**Multi-Tenant Property Management Platform**
+### 🛍️ ZYRØCORE
+**Real-World Client E-Commerce Platform**
 
-A property and hostel management web platform digitizing room allocations, automated rent schedules, tenant records, and role-based access control with persistent state management.
+A production-oriented full-stack e-commerce platform developed for **ZYRØCORE**, an Indian streetwear and lifestyle apparel brand based in Tamil Nadu (*"Stop Following The Trend. Be Timeless."*). Provides a modern storefront for browsing collections, managing carts and wishlists, handling customer accounts, and processing secure payments.
 
-- **Stack**: React • Next.js • TypeScript • Tailwind CSS
-- **Features**: Role-based access control, tenant directories, rent tracking
-- **Architecture**: Multi-tenant database design • Responsive dashboard
-- **Deployment**: Vercel
+- **Stack**: Next.js 16 • React 19 • TypeScript • Tailwind CSS
+- **Backend & DB**: Supabase • PostgreSQL • Razorpay API
+- **Features**: Product catalog & category filters, cart & wishlist, order tracking
+- **Deployment**: Vercel Production Environment
 
-[Live Demo →](https://pghub-seven.vercel.app/) • [View Source →](https://github.com/elangoss121-dev/PGHub)
+[Live Demo →](https://www.zyrocore.in) • [View Source →](https://github.com/sivakumarelango10-art/zyrocore)
 
 </td>
 </tr>
