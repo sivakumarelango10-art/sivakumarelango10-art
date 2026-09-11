@@ -4,12 +4,16 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:6366F1,100:A855F7&height=200&section=header&text=Elango%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Prompt%20Engineer%20%E2%80%A2%20AI%20Explorer&descAlignY=58&descAlign=50&descSize=19" width="100%" alt="Elango S Banner" />
+<p align="center">
+  <img src="./assets/hero-banner.svg" alt="Elango S — Full-Stack Developer &amp; AI Explorer" width="100%" />
+</p>
 
-<br>
+# 👋 Hey, I'm **Elango S**
+
+### `Full-Stack Developer` • `Prompt Engineer` • `AI Explorer` • `Problem Solver`
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Full-Stack+Web+Applications;Creating+AI-Powered+Experiences;Engineering+Better+Prompts+%26+Workflows;Turning+Ideas+Into+Working+Products;Real-World+Project+Builder;Learning.+Building.+Shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+Full-Stack+Web+Applications;Creating+AI-Powered+Experiences;Engineering+Better+Prompts+%26+Workflows;Turning+Ideas+Into+Working+Products;Real-World+Client+E-Commerce+Builder;Learning.+Building.+Shipping." alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -21,10 +25,12 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:6366F1,100:A855F7&height=3&section=header" width="100%" alt="Divider" />
+<p align="center">
+  <img src="./assets/section-divider.svg" alt="Section Divider" width="100%" />
+</p>
 
 <!-- ============================================================
-     ABOUT ME
+     ABOUT ME SECTION
 ============================================================ -->
 
 ## 🧑‍💻 About Me
@@ -48,100 +54,23 @@ From architecting competitive programming arenas with multi-language execution t
 - 🧠 **AI & Automation**: Prompt Architecture, Structured LLM Outputs, OpenAI API Integration, AI-Assisted Workflows
 - 🎯 **Engineering Mantra**: `Build → Experiment → Learn → Ship → Improve`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:6366F1,100:A855F7&height=3&section=header" width="100%" alt="Divider" />
+<p align="center">
+  <img src="./assets/section-divider.svg" alt="Section Divider" width="100%" />
+</p>
 
 <!-- ============================================================
      WHAT I'M CURRENTLY BUILDING
 ============================================================ -->
 
-## 🚀 What I'm Currently Building
+## 🚀 Currently Building
 
 - 🎓 **[KalviLearn](https://kalvilearn.vercel.app)** — An advanced competitive programming education platform featuring 85 Belt Mastery problems, a 10-module curriculum (89 learning units), an anti-cheat Monaco code arena with keyboard shortcut interception, and client-side multi-language code evaluation.
 - 🛍️ **[ZYRØCORE](https://www.zyrocore.in)** — A real-world client e-commerce platform built for an Indian streetwear and lifestyle apparel brand based in Tamil Nadu (*"Stop Following The Trend. Be Timeless."*). Features product collection discovery, cart/wishlist management, customer accounts, and Razorpay checkout.
 - 🤖 **[SkillSync AI](https://github.com/elangoss121-dev/SkillSync-AI)** — An intelligent developer workspace combining OpenAI models and AST-aware code parsing to automate unit test generation, legacy code refactoring, and documentation synthesis.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:6366F1,100:A855F7&height=3&section=header" width="100%" alt="Divider" />
-
-<!-- ============================================================
-     HOW I BUILD (DEVELOPMENT WORKFLOW)
-============================================================ -->
-
-## 🧠 How I Build
-
-<div align="center">
-
-```text
-💡 Discover ───► 🧩 Architecture ───► 💻 Build ───► 🧪 Validate ───► 🚀 Deploy ───► 🔁 Iterate
-```
-
-| Phase | Focus | Engineering Practices |
-| :--- | :--- | :--- |
-| **💡 1. Discover** | Domain & Problem Mapping | Decompose requirements, identify user journeys, define edge cases |
-| **🧩 2. Architecture** | System & Data Design | Relational schema design (PostgreSQL), API contracts, auth & state |
-| **💻 3. Build** | Full-Stack Implementation | Modern React 19 / Next.js 16, TypeScript safety, modular components |
-| **🧪 4. Validate** | Testing & Quality | In-browser test runners, AST validations, linting, error boundaries |
-| **🚀 5. Deploy** | Production Delivery | Serverless edge functions, Vercel cloud, asset caching, CDN |
-| **🔁 6. Iterate** | Refine & Scale | Telemetry feedback, performance profiling, prompt optimization |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:6366F1,100:A855F7&height=3&section=header" width="100%" alt="Divider" />
-
-<!-- ============================================================
-     TECH STACK
-============================================================ -->
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css&theme=dark" alt="Languages" />
+<p align="center">
+  <img src="./assets/section-divider.svg" alt="Section Divider" width="100%" />
 </p>
-
-### ⚛️ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="Frontend" />
-</p>
-
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend" />
-</p>
-
-### 🗄️ Databases & ORM
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma,mongodb&theme=dark" alt="Databases" />
-</p>
-
-### 🤖 AI & Prompt Engineering
-<p>
-  <img src="https://img.shields.io/badge/Prompt_Architecture-Structured_Prompts_%26_Templates-4338CA?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/OpenAI_APIs-Function_Calling_%26_JSON_Mode-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/LLM_Workflows-AST_Aware_Prompts-2563EB?style=for-the-badge&logo=meta&logoColor=white" alt="LLM Workflows" />
-</p>
-
-### 🔧 Development Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma&theme=dark" alt="Dev Tools" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:6366F1,100:A855F7&height=3&section=header" width="100%" alt="Divider" />
-
-<!-- ============================================================
-     AI & PROMPT ENGINEERING
-============================================================ -->
-
-## 🧠 AI & Prompt Engineering
-
-Prompt engineering is not just asking questions—it is system engineering with natural language. I design predictable, reproducible AI pipelines integrated directly into application workflows:
-
-- **Structured Prompt Architecture**: Crafting multi-layered system instructions with strict constraints, role definitions, few-shot examples, and schema-enforced output formatting.
-- **Master Prompts & Reusable Templates**: Building reusable prompt templates for automated test synthesis, code explanation, code review, and legacy refactoring.
-- **Application Integration**: Connecting LLM endpoints with backend controllers, leveraging JSON schema modes and function calling for programmatic reliability.
-- **AST-Aware Code Prompting**: Feeding Abstract Syntax Tree (AST) context into language models to ensure generated unit tests adhere to accurate module signatures.
-- **Developer Workflow Optimization**: Using generative AI as a force multiplier for rapid prototyping, edge case discovery, and test coverage expansion.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:6366F1,100:A855F7&height=3&section=header" width="100%" alt="Divider" />
 
 <!-- ============================================================
      FEATURED PROJECTS
@@ -265,52 +194,96 @@ An interactive learning analytics portal featuring live student progress telemet
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:6366F1,100:A855F7&height=3&section=header" width="100%" alt="Divider" />
+<p align="center">
+  <img src="./assets/section-divider.svg" alt="Section Divider" width="100%" />
+</p>
 
 <!-- ============================================================
-     SKILLS & EXPERTISE
+     TECH STACK
 ============================================================ -->
 
-## 🎯 Skills & Expertise
+## 🛠️ Tech Stack
 
-- **💡 Full-Stack Web Development**: Building end-to-end web applications with component-driven frontends (React 19, Next.js 16) and robust backend APIs (Node.js, Express), backed by relational databases (PostgreSQL) and modern ORMs (Prisma).
-- **🎨 Frontend Engineering**: Crafting responsive, accessible, and high-performance user interfaces using TypeScript, Tailwind CSS, Vite, and modular component architecture.
-- **⚙️ Backend & API Systems**: Designing RESTful APIs, implementing authentication & authorization, structuring database schemas, and handling server-to-server webhook pipelines.
-- **🤖 Applied AI & Prompt Engineering**: Architecting master prompt templates, integrating LLMs via APIs, using structured JSON outputs, and augmenting developer workflows with AI.
-- **🚀 Rapid Prototyping & Shipping**: Transforming requirements into functional MVPs under time constraints, iterative debugging, and production deployment on Vercel.
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css&theme=dark" alt="Languages" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:6366F1,100:A855F7&height=3&section=header" width="100%" alt="Divider" />
+### ⚛️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" alt="Frontend" />
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend" />
+</p>
+
+### 🗄️ Databases & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma,mongodb&theme=dark" alt="Databases" />
+</p>
+
+### 🤖 AI & Prompt Engineering
+<p>
+  <img src="https://img.shields.io/badge/Prompt_Architecture-Structured_Prompts_%26_Templates-4338CA?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/OpenAI_APIs-Function_Calling_%26_JSON_Mode-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/LLM_Workflows-AST_Aware_Prompts-2563EB?style=for-the-badge&logo=meta&logoColor=white" alt="LLM Workflows" />
+</p>
+
+### 🔧 Development Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma&theme=dark" alt="Dev Tools" />
+</p>
+
+<p align="center">
+  <img src="./assets/section-divider.svg" alt="Section Divider" width="100%" />
+</p>
 
 <!-- ============================================================
-     CURRENTLY LEARNING
+     AI & PROMPT ENGINEERING
 ============================================================ -->
 
-## 🌱 Currently Learning
+## 🧠 AI & Prompt Engineering
 
-```text
-Full-Stack Architecture
-├── Advanced Component Patterns & State Machines
-├── Serverless & Edge Compute Workflows
-│
-▼
-Backend Systems & Databases
-├── Scalable PostgreSQL Optimization & Indexing
-├── Real-Time Event Pipelines & Webhooks
-│
-▼
-AI Engineering & LLM Systems
-├── Advanced Prompt Engineering & Evaluation Frameworks
-├── Retrieval-Augmented Generation (RAG) Architectures
-└── Autonomous Agent Workflows & Tool Use
-│
-▼
-System Design & Reliability
-├── Performance Profiling & Caching Strategies
-├── API Security & Rate Limiting
-└── Production Observability
-```
+Prompt engineering is not just asking questions—it is system engineering with natural language. I design predictable, reproducible AI pipelines integrated directly into application workflows:
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:6366F1,100:A855F7&height=3&section=header" width="100%" alt="Divider" />
+- **Structured Prompt Architecture**: Crafting multi-layered system instructions with strict constraints, role definitions, few-shot examples, and schema-enforced output formatting.
+- **Master Prompts & Reusable Templates**: Building reusable prompt templates for automated test synthesis, code explanation, code review, and legacy refactoring.
+- **Application Integration**: Connecting LLM endpoints with backend controllers, leveraging JSON schema modes and function calling for programmatic reliability.
+- **AST-Aware Code Prompting**: Feeding Abstract Syntax Tree (AST) context into language models to ensure generated unit tests adhere to accurate module signatures.
+- **Developer Workflow Optimization**: Using generative AI as a force multiplier for rapid prototyping, edge case discovery, and test coverage expansion.
+
+<p align="center">
+  <img src="./assets/section-divider.svg" alt="Section Divider" width="100%" />
+</p>
+
+<!-- ============================================================
+     HOW I BUILD (DEVELOPMENT WORKFLOW)
+============================================================ -->
+
+## 🧠 How I Build
+
+<p align="center">
+  <img src="./assets/workflow-pipeline.svg" alt="Development Workflow Pipeline" width="100%" />
+</p>
+
+<div align="center">
+
+| Phase | Focus | Engineering Practices |
+| :--- | :--- | :--- |
+| **💡 1. Discover** | Domain & Problem Mapping | Decompose requirements, identify user journeys, define edge cases |
+| **🧩 2. Architecture** | System & Data Design | Relational schema design (PostgreSQL), API contracts, auth & state |
+| **💻 3. Build** | Full-Stack Implementation | Modern React 19 / Next.js 16, TypeScript safety, modular components |
+| **🧪 4. Validate** | Testing & Quality | In-browser test runners, AST validations, linting, error boundaries |
+| **🚀 5. Deploy** | Production Delivery | Serverless edge functions, Vercel cloud, asset caching, CDN |
+| **🔁 6. Iterate** | Refine & Scale | Telemetry feedback, performance profiling, prompt optimization |
+
+</div>
+
+<p align="center">
+  <img src="./assets/section-divider.svg" alt="Section Divider" width="100%" />
+</p>
 
 <!-- ============================================================
      HACKATHONS & CHALLENGES
@@ -325,7 +298,9 @@ I love participating in hackathons and competitive developer events because they
 - **Problem Solving & Resourcefulness**: Prioritizing core high-impact features, writing resilient code, and debugging under deadlines.
 - **Practical Impact**: Focusing on tools and platforms that solve real user and developer pain points.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:6366F1,100:A855F7&height=3&section=header" width="100%" alt="Divider" />
+<p align="center">
+  <img src="./assets/section-divider.svg" alt="Section Divider" width="100%" />
+</p>
 
 <!-- ============================================================
      GITHUB ACTIVITY & STATS
@@ -347,7 +322,9 @@ I love participating in hackathons and competitive developer events because they
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:6366F1,100:A855F7&height=3&section=header" width="100%" alt="Divider" />
+<p align="center">
+  <img src="./assets/section-divider.svg" alt="Section Divider" width="100%" />
+</p>
 
 <!-- ============================================================
      GOALS FOR 2026
@@ -365,13 +342,17 @@ I love participating in hackathons and competitive developer events because they
 - [ ] 📦 Publish reusable component and prompt libraries for developers
 - [ ] 🤝 Collaborate with developers globally to ship real-world software
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:6366F1,100:A855F7&height=3&section=header" width="100%" alt="Divider" />
+<p align="center">
+  <img src="./assets/section-divider.svg" alt="Section Divider" width="100%" />
+</p>
 
 <!-- ============================================================
-     LET'S CONNECT
+     LET'S BUILD SOMETHING (COLLABORATION & CONTACT)
 ============================================================ -->
 
-## 📫 Let's Connect
+## 🤝 Let's Build Something
+
+Interested in building useful products, experimenting with AI capabilities, or collaborating on meaningful full-stack software? Feel free to reach out!
 
 <div align="center">
 
@@ -385,12 +366,12 @@ I love participating in hackathons and competitive developer events because they
 <br>
 
 <!-- ============================================================
-     FOOTER
+     ANIMATED FOOTER
 ============================================================ -->
 
 <div align="center">
 
-### 💭 *"Build things that solve problems. Learn from every iteration. Keep shipping."*
+### 💭 *"Build things that matter. Learn from what breaks. Keep shipping."*
 
 <br>
 
@@ -402,6 +383,8 @@ I love participating in hackathons and competitive developer events because they
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:6366F1,100:A855F7&height=110&section=footer" width="100%" alt="Footer Banner" />
+<p align="center">
+  <img src="./assets/section-divider.svg" alt="Footer Wave" width="100%" />
+</p>
 
 </div>
