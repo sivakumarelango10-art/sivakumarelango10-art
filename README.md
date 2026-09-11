@@ -14,7 +14,7 @@
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-elangoss121--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elangoss121-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-sivakumarelango10--art-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sivakumarelango10-art)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elango%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elango-s-a7a8aa367/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-elanxzz.me-0284C7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elanxzz.me)
 [![Email](https://img.shields.io/badge/Email-sivakumarelango10%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivakumarelango10@gmail.com)
@@ -299,15 +299,15 @@ I love participating in hackathons and competitive developer events because they
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=elangoss121-dev&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Elango's GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sivakumarelango10-art&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="Elango's GitHub Stats" />
 
 <br><br>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elangoss121-dev&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sivakumarelango10-art&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=elangoss121-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=sivakumarelango10-art&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -338,7 +338,7 @@ I love participating in hackathons and competitive developer events because they
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-elangoss121--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elangoss121-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-sivakumarelango10--art-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sivakumarelango10-art)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elango_S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elango-s-a7a8aa367/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-elanxzz.me-0284C7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://elanxzz.me)
 [![Email](https://img.shields.io/badge/Email-sivakumarelango10%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivakumarelango10@gmail.com)
@@ -361,6 +361,6 @@ I love participating in hackathons and competitive developer events because they
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=elangoss121-dev&style=for-the-badge&color=3B82F6)
+![Profile Views](https://komarev.com/ghpvc/?username=sivakumarelango10-art&style=for-the-badge&color=3B82F6)
 
 </div>
