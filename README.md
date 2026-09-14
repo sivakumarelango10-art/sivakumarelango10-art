@@ -48,7 +48,7 @@
 
 I am a hands-on **Full-Stack Developer** and **AI Engineer** based in Bengaluru, India. I specialize in engineering responsive modern web applications, integrating practical AI/LLM capabilities into software workflows, and designing structured prompts that yield predictable, production-grade results.
 
-From architecting competitive programming arenas with multi-language execution to deploying client e-commerce platforms and AI developer workspaces, my focus is always on writing clean code, designing solid architectures, and shipping real-world software.
+From architecting competitive programming arenas with multi-language execution to deploying client e-commerce platforms and high-throughput media engines, my focus is always on writing clean code, designing solid architectures, and shipping real-world software.
 
 - 💻 **Engineering Stack**: TypeScript, JavaScript, React 19, Next.js 16, Node.js, Express, PostgreSQL, Prisma, Supabase
 - 🧠 **AI & Automation**: Prompt Architecture, Structured LLM Outputs, OpenAI API Integration, AI-Assisted Workflows
@@ -66,7 +66,6 @@ From architecting competitive programming arenas with multi-language execution t
 
 - 🎓 **[KalviLearn](https://kalvilearn.vercel.app)** — An advanced competitive programming education platform featuring 85 Belt Mastery problems, a 10-module curriculum (89 learning units), an anti-cheat Monaco code arena with keyboard shortcut interception, and client-side multi-language code evaluation.
 - 🛍️ **[ZYRØCORE](https://www.zyrocore.in)** — A real-world client e-commerce platform built for an Indian streetwear and lifestyle apparel brand based in Tamil Nadu (*"Stop Following The Trend. Be Timeless."*). Features product collection discovery, cart/wishlist management, customer accounts, and Razorpay checkout.
-- 🤖 **[SkillSync AI](https://github.com/elangoss121-dev/SkillSync-AI)** — An intelligent developer workspace combining OpenAI models and AST-aware code parsing to automate unit test generation, legacy code refactoring, and documentation synthesis.
 
 <p align="center">
   <img src="./assets/section-divider.svg" alt="Section Divider" width="100%" />
@@ -120,24 +119,6 @@ A production-oriented full-stack e-commerce platform developed for **ZYRØCORE**
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 SkillSync AI
-<img src="https://img.shields.io/badge/AI_System-Developer_Tools-10B981?style=flat-square" alt="AI Badge" />
-
-**Intelligent AI Developer Workspace**
-
-An enterprise-grade developer workspace powered by OpenAI models and AST code parsing. Accelerates engineering by generating AST-aware unit tests, refactoring legacy functions, and synthesizing live documentation in sub-200ms response times.
-
-- **Stack**: Next.js • React • TypeScript • Tailwind CSS
-- **AI Core**: OpenAI API • Structured Prompts • AST Parsing
-- **Deployment**: Vercel Cloud Platform
-- **Features**: Codebase analysis, auto-refactoring, unit test generation
-
-[Live Demo →](https://skillsync-ai-nine.vercel.app/) • [View Source →](https://github.com/elangoss121-dev/SkillSync-AI)
-
-</td>
-
-<td width="50%" valign="top">
-
 ### 🎥 ReelTube
 <img src="https://img.shields.io/badge/Media_Engine-Full_Stack-EC4899?style=flat-square" alt="Media Badge" />
 
@@ -153,9 +134,7 @@ A high-performance media pipeline and stream resolution engine that processes an
 [Live Demo →](https://v0-mediagrab.vercel.app/) • [View Source →](https://github.com/elangoss121-dev/v0-media-downloader)
 
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 ### 🛍️ Kangeyan Heritage
@@ -173,8 +152,10 @@ A responsive e-commerce platform built for a heritage apparel brand. Achieves fa
 [Live Demo →](https://kangeyan-heritage.vercel.app) • [View Source →](https://github.com/elangoss121-dev/Kangeyan-Heritage)
 
 </td>
+</tr>
 
-<td width="50%" valign="top">
+<tr>
+<td colspan="2" valign="top">
 
 ### 📊 NextGen Learning Dashboard
 <img src="https://img.shields.io/badge/Analytics-Telemetry-06B6D4?style=flat-square" alt="Analytics Badge" />
@@ -335,7 +316,6 @@ I love participating in hackathons and competitive developer events because they
 - [x] 🚀 Build and ship production-ready full-stack web applications
 - [x] 🎓 Design and launch **KalviLearn** with interactive in-browser coding
 - [x] 🛍️ Ship **ZYRØCORE** client e-commerce platform to production
-- [ ] 🤖 Expand **SkillSync AI** with custom RAG loops and local LLM acceleration
 - [ ] 🏆 Participate in major collegiate and national hackathons
 - [ ] 📚 Deepen mastery in distributed system design and database indexing
 - [ ] 🌐 Contribute to high-impact open-source developer tooling
